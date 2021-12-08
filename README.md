@@ -102,3 +102,9 @@ ps: você tbm pode mover ou copiar arquivos ja existentes para dentro da pasta
  
  <p align ="center"> <strong>E pronto, tá feito o sorvetinho!
 </a></strong></p>
+
+ <br/>
+ <br/>
+ <br/>
+
+<p align ="center"> Hei, psiu! Se ta com dúvida sobre a conexão SSH, é só clicar <strong><a href="https://github.com/luanalessa/tutorial-git/blob/main/CONEXAO-SSH.md">aqui</a></strong></p>
