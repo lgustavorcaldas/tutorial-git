@@ -99,3 +99,6 @@ ps: você tbm pode mover ou copiar arquivos ja existentes para dentro da pasta
  $ git push -u origin main
  ```
  <br/>
+ 
+ <p align ="center"> <strong>E pronto, tá feito o sorvetinho!
+</a></strong></p>
