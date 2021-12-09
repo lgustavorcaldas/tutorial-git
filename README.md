@@ -41,7 +41,7 @@ $ git config --global user.email "fulano@email.com.br"
 
 ### 📍 Repositório Local
 
-Na sua máquina local, você deve fazer os seguinte passos:
+Na sua máquina local, você deve fazer os seguinte passos no terminal (utilize o Git Bash se tiver no Windows):
 
 - Crie a pasta local e navegue até ela
 
@@ -80,7 +80,7 @@ ps: você tbm pode mover ou copiar arquivos ja existentes para dentro da pasta
  <br/>
 
  
-- Renomeie a `branch` atual para main
+- Renomeie a `branch` atual para main 
  ```bash
  $ git branch -M main
  ```
