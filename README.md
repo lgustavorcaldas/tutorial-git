@@ -10,7 +10,7 @@
 #### <p align = "left"> Windows </p>
 
 - Git Bash : https://git-scm.com/download/win
-- Git Desktop : https://desktop.github.com/
+- GitHub Desktop : https://desktop.github.com/
 
 #### <p align = "left"> Linux </p>
 
