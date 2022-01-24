@@ -67,7 +67,7 @@ ps: caso deseje enviar algum trabalho pro github, você pode mover ou colar seus
  ```
  <br/>
 
-- Adicione qualquer aquivo novo ou que foi modificado. 
+- Adicione qualquer aquivo novo ou que foi modificado com o comando: 
  ```bash
  $ git add .
  ```
