@@ -9,8 +9,8 @@
 
 #### <p align = "left"> Windows </p>
 
-- GitHub Bash : https://git-scm.com/download/win
-- GitHub Desktop : https://desktop.github.com/
+- Git Bash : https://git-scm.com/download/win
+- Git Desktop : https://desktop.github.com/
 
 #### <p align = "left"> Linux </p>
 
@@ -22,6 +22,7 @@ $ sudo apt-get install git
 
 ## <p align = "left"> 🔻 Configuração inicial </p>
 
+- Abra o GitBash o digite os comandos, colocando o seu usuário do GitHub e seu email
 
 ```bash
 $ git config --global user.name "Fulano de tal"
