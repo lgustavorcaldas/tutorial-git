@@ -59,14 +59,15 @@ Na sua máquina local, você deve fazer os seguinte passos no terminal (utilize 
 <br/>
 
 - Crie um arquivo inicial.
-ps: você tbm pode mover ou copiar arquivos ja existentes para dentro da pasta
+
+ps: caso deseje enviar algum trabalho pro github, você pode mover ou colar seus arquivos aqui dentro.
 
  ```bash
  $ touch README.md
  ```
  <br/>
 
-- Adicione qualquer aquivo novo ou que foi modificado ao índice. 
+- Adicione qualquer aquivo novo ou que foi modificado. 
  ```bash
  $ git add .
  ```
@@ -80,7 +81,7 @@ ps: você tbm pode mover ou copiar arquivos ja existentes para dentro da pasta
  <br/>
 
  
-- Renomeie a `branch` atual para main 
+- (dica) Renomeie a `branch` atual para main 
  ```bash
  $ git branch -M main
  ```
@@ -103,7 +104,6 @@ ps: você tbm pode mover ou copiar arquivos ja existentes para dentro da pasta
  <p align ="center"> <strong>E pronto, tá feito o sorvetinho!
 </a></strong></p>
 
- <br/>
  <br/>
  <br/>
 
