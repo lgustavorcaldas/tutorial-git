@@ -77,20 +77,9 @@ $ git remote add origin git@github.com:fulanodetal/meuprojeto.git
 ```
 <br/>
 <br/>
+<br/>
+
 <p align ="center">
-🚩 Aleḿ desses dois protocolos o Git também possui o seu próprio e foi desenvolvido para ter mais velocidade que os outros. Este é o protocolo mais rápido, mas pode ter problemas com firewalls, já que ele utiliza uma porta sem tráfego de rede normalmente.
+🚩 ps: Aleḿ desses dois protocolos o Git também possui o seu próprio e foi desenvolvido para ter mais velocidade que os outros. Este é o protocolo mais rápido, mas pode ter problemas com firewalls, já que ele utiliza uma porta sem tráfego de rede normalmente.
  </p>
- 
-```bash
-$ git remote add origin git@github.com/fulanodetal/meuprojeto.git
-```
- <br/>
 
-<p align ="justify">Neste exemplo, o caminho completo não é especificado. Quando você inicia um servidor Git informa-se qual o diretório para procurar os repositórios, apenas especificando o nome dos mesmos.</p> 
-
- <p align ="justify">A grande diferença entre o protocolo Git e o SSH, além da encriptação, é que o Git é anônimo. Isto é bom quando se deseja fornecer um acesso público de apenas leitura (ou read-only) ao repositório. Por permitir acesso anônimo este acesso poderia ser perigoso caso o repositório fosse aberto para escrita, por isso tal restrição. Dessa forma, ninguém pode fazer alterações no mesmo quando acessado através do protocolo Git.</p> 
-
-  <p align ="justify">Assim sendo, sempre que se verifica um repositório usando "git://" pode-se afirmar que ele tem acesso apenas à leitura.
-Normalmente o que as organizações fazem é permitir que os desenvolvedores utilizem o protocolo Git para fazer um pull, recebendo os arquivos do repositório. Utiliza-se o SSH os desenvolvedores que faze um push, enviando assim as alterações diretamente para o repositório.</p> 
-
-<p align ="right"> <strong>- Via <a href="https://www.devmedia.com.br/trabalhando-com-o-repositorio-remoto-no-git/33786">Dev Media</a></strong></p>
