@@ -27,7 +27,7 @@ SHA256:YzX9kjuahs789ha+mJkOJkU897GfDo36paHg67HnBdAc fulanodetal@email.com
 <br/>
 
 
-3. Inicie o ssh-agent
+3. Inicie o ssh-agent.
 ```bash
 $ eval "$(ssh-agent -s)"
 ```
@@ -47,7 +47,7 @@ $ exec ssh-agent bash # ou exec ssh-agent zsh
 ```
 <br/>
 
-5. Copie a chave pública:
+5. Copiee a chave pública:
 
 ```bash
 $ cat ~/.ssh/id_ed25519.pub
